@@ -1,0 +1,1 @@
+print("Hello world Jenkins python script")
